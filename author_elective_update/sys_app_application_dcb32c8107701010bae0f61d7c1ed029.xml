@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 19:06:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dcb32c8107701010bae0f61d7c1ed029</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_dcb32c8107701010bae0f61d7c1ed029</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 19:06:49</sys_updated_on>
+        <title>Needit</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>cfc1dedcdb3e049049eac5970596196b</instance_id>
+        <instance_name>dev98947</instance_name>
+        <name>sys_app_application_dcb32c8107701010bae0f61d7c1ed029</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-13 19:06:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dcb32c8107701010bae0f61d7c1ed029</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Needit</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_dcb32c8107701010bae0f61d7c1ed029</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-13 19:06:49</sys_updated_on><title>Needit</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1798515035</payload_hash>
+        <record_name>Needit</record_name>
+        <reverted_from/>
+        <source>379fdc0d07301010bae0f61d7c1ed06e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 19:06:49</sys_created_on>
+        <sys_id>40c32c8107701010bae0f61d7c1ed030</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1720f6ea6100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 19:06:49</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>88c32c817e70101015711c866b1e732f</update_guid>
+        <update_guid_history>88c32c817e70101015711c866b1e732f:-1798515035</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Needit">a5f8248507701010bae0f61d7c1ed00c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 19:29:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>4d7b69c94edc4d33a121e87a9a313e51</sys_id>
+        <sys_metadata>dcb32c8107701010bae0f61d7c1ed029</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_dcb32c8107701010bae0f61d7c1ed029</sys_update_name>
+        <sys_update_version display_value="sys_app_application_dcb32c8107701010bae0f61d7c1ed029">40c32c8107701010bae0f61d7c1ed030</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 19:29:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
